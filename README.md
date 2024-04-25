@@ -6,6 +6,7 @@ Machine Text Translation For Any Language :
 
 https://github.com/shasha0982/My-Project-Language-Translation
 
+
 Text To Text Generation Using HuggingFace :
 
 https://github.com/shasha0982/My-Official-Text-To-Text-Generation
@@ -21,6 +22,22 @@ Text Classification :
 Question-Answering Using Huggingface / Prompt Engineering : 
 
 https://github.com/shasha0982/my_official_prompt_huggingface_llm_real_project
+
+
+Open CV :
+
+
+Text To Speech Using HuggingFace :
+
+
+
+Text To Image Using HuggingFace :
+
+
+Text To Audio :
+
+
+Sentiment Analysis : 
 
 
 
