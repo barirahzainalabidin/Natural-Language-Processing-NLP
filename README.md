@@ -15,14 +15,15 @@ https://github.com/shasha0982/Train-chatgpt-3.5-/tree/main
 Train Dataset With Huggingface Models :
 
 
+
+Sample csv dataset for translations : 
+
+https://github.com/shasha0982/sample-csv-for-translation/blob/main/README.md
+
+
 Train dataset using translation with chatgpt 3.5 :
 
 https://github.com/shasha0982/Create-Translation-Any-Language-With-ChatGpt-3.5
-
-
-Machine Text Translation For Any Language : 
-
-https://github.com/shasha0982/My-Project-Language-Translation
 
 
 Text To Text Generation Using HuggingFace :
