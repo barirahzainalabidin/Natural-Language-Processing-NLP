@@ -14,6 +14,7 @@ https://github.com/shasha0982/Train-chatgpt-3.5-/tree/main
 
 Train Dataset With Huggingface Models :
 
+https://github.com/shasha0982/Train-Dataset-With-Huggingface-Models
 
 
 Sample csv dataset for translations : 
