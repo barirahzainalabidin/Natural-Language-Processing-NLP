@@ -2,7 +2,7 @@
 NLP , Machine Text Translation Project from kaggle
 
 
-Sample CSV Dataset :
+Sample CSV Dataset For Training Chatbot :
 
 https://github.com/shasha0982/sample-csv-chatbot/blob/main/README.md
 
@@ -13,6 +13,11 @@ https://github.com/shasha0982/Train-chatgpt-3.5-/tree/main
 
 
 Train Dataset With Huggingface Models :
+
+
+Train dataset using translation with chatgpt 3.5 :
+
+https://github.com/shasha0982/Create-Translation-Any-Language-With-ChatGpt-3.5
 
 
 Machine Text Translation For Any Language : 
